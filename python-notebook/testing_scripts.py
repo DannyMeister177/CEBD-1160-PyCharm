@@ -11,4 +11,6 @@ print(myboolean)
 print(mylist)
 
 print(f'{type(mynumber)}, {type(myfloat)}, {type(mystring)}, {type(myboolean)}, {type(mylist)}')
-Print(f'what?')
+
+
+Danielle Danielle Danielle..... motherfuckin Shemie!!!
